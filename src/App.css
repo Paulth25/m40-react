@@ -1,0 +1,18 @@
+body{
+  margin: 25px;
+  background-color: black;
+}
+.app{
+  background-color: rgb(75, 195, 228);
+  color: black;
+  border-style: double;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 200px;
+}
